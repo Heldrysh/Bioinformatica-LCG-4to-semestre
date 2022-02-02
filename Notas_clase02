@@ -1,0 +1,9 @@
+Introducción al uso  de Rsudio 
+Se uso Rstudio para la instalación de Github y un directorio externo en el que se manejaran las notas y actividades a realizar dentro del curso. para esto usamos:
+#remotes::install_github(c(
+#    "gadenbuie/rsthemes"
+#))
+#remotes::install_cran("suncalc")
+#rsthemes::install_rsthemes(include_base16 = TRUE)
+*usethis::* es una navaja suiza con multiples herramientas, aun falta por descubrir cuales son todas estas funciones. 
+*Instalacion de Bioconductor*
